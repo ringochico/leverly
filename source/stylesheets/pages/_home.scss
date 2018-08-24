@@ -1,6 +1,5 @@
 #home {
   color: white;
-  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -16,5 +15,13 @@
 }
 
 .banner-container-massage{
-  width: 100%;
+}
+
+.testimonials-content {
+  color: black;
+  display: flex;
+}
+
+.white-wrapper {
+  background-color: white;
 }
