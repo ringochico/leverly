@@ -11,4 +11,4 @@ gem 'font-awesome-sass'
 gem 'bootstrap-sass'
 gem 'jquery-middleman'
 
-gem 'sassc', '~> 1.12.1'
+gem 'sassc', '1.12.1'
